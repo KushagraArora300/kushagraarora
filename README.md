@@ -6,7 +6,7 @@ It's coming up tomorrow when I learn HTML nas CSS with Tnay Pratap live on Youtu
 
 For now, I know:
 
-1.JavaScrit
+1.JavaScript
 1.Node.JS
 1.Repl.it
 1.CHALK
